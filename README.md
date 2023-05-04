@@ -9,4 +9,4 @@ Separate page for player statistics
 Number of games guessed correctly
 Average number of guesses needed
 Visually appealing design with responsive layout
-e
+
